@@ -1,0 +1,9 @@
+Simple udp client
+
+use cases
+
+echo server: Echoes anything back to the sender. Also verbose.
+
+interactive: Sends messages to address and after sending, tries to read if anything was sent to it.
+
+contains some kind of help.
